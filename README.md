@@ -24,8 +24,8 @@ The toolkit was prepared for reproducible research and public code release. Loca
 ## Installation
 
 ```bash
-conda create -n methylreadbinprofiler python=3.10 -y
-conda activate methylreadbinprofiler
+conda create -n UCtracker python=3.10 -y
+conda activate UCtracker
 pip install -r requirements.txt
 ```
 
