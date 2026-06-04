@@ -1,6 +1,6 @@
-# MethylReadBinProfiler
+# UCtracker
 
-MethylReadBinProfiler is a lightweight Python toolkit for extracting and summarizing read-level DNA methylation features from bisulfite-aligned BAM files.
+UCtracker is a lightweight Python toolkit for extracting and summarizing read-level DNA methylation features from bisulfite-aligned BAM files.
 
 The toolkit was prepared for reproducible research and public code release. Local paths, user-specific server information, and project-specific identifiers have been removed. All input files are provided through command-line arguments.
 
