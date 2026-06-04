@@ -1,0 +1,5 @@
+numpy>=1.20
+pandas>=1.3
+pysam>=0.21
+pyfaidx>=0.7
+tensorflow>=2.8
