@@ -150,7 +150,7 @@ The output formats were intentionally kept consistent with the original analysis
 
 ## Suggested repository name
 
-`MethylReadBinProfiler`
+`UCtracker`
 
 ## License
 
